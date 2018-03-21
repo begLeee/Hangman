@@ -1,2 +1,2 @@
 " Hangman" 
-run the hangman.py module to play the game
+ Run the hangman.py module to play the game
